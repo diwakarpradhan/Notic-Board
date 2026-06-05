@@ -193,3 +193,7 @@ To deploy on Vercel:
 5. Deploy!
 
 The application is now live and ready for production use.
+
+## License
+
+This project is created for the Reno Platforms Web Development Internship Assignment.
